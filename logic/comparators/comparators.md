@@ -1,9 +1,9 @@
-# equal.bf
+# and.bf
+
+This is essentially an AND gate, it tells if x and y are equal.
 
 ```
-,
->
-,
+,>,
 
 [<->-]
 
@@ -13,7 +13,7 @@
 
 ```
 
-***','*** asks for input. Add more commas if more than 1 digit is needed.
+***',>,'*** asks for inputs. Add more commas if more than 1 digit comparisons are needed.
 
 ***'[<->-]'*** sets the second input to 0 while the first is the difference between them.
 
