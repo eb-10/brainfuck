@@ -1,4 +1,4 @@
-# if.bf
+# equal.bf
 
 ```
 ,
